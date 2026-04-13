@@ -26,9 +26,6 @@ The dataset is based on Brazilian e-commerce data from Magist, including:
 - Non-Tech products have higher sales volume.
 - Non-Tech generates more revenue across all years.
 - Tech products underperform in comparison.
-
-#### Product Performance Analysis
-< img src ="images/product performance.png" width="600">
   
 ### Seller Performance Analysis
 - Fewer sellers in Tech category.
