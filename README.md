@@ -1,26 +1,33 @@
-# MagistEval
+# Magist E-commerce Performance Evaluation Using Sales, Seller, Geo & Delivery Analysis
 
-## Description
-This project evaluates whether Magist is a suitable partner for Eniac. The analysis focuses on product performance, seller distribution,geographical insights,delivery performance and customer reviews using e-commerce data.
+## Project Overview
+This project evaluates whether Magist is a suitable partner for Eniac, by analysing business performance acrosee multiple dimensions. The analysis focuses on product performance, seller distribution,geographical insights,delivery performance and customer reviews using e-commerce data.
 
-## Objective
-- Analyze Product Performance (Sales & Revenue trends)
-- Evaluate Seller Performance
-- Study Geographical Distribution
-- Assess Delivery Performance
-- Analyze Customer Reviews
-  
-## Dataset
-The dataset is based on Brazilian e-commerce data from Magist, including:
-- Orders
-- Products
-- Sellers
-- Customers
-- Reviews
+## Dataset & Sources
+
+Source: Magist E-commerce Dataset (Brazil)
+
+Size:
+
+- Multiple tables(orders, products,sellers,customers)
+- Cover three years of transaction data
+
+Key Features:
+
+- Order purchase & delivery dates
+- Product categories (Tech vs Non-Tech)
+- Seller locations
+- Customer locations
 - Delivery information
-- Geographic information (State and City)
+- Customer Reviews
 
-## Analysis
+Notes:
+
+- Missing delivery dates handled as "Unknown".
+- Products grouped into Tech and Non-Tech categories for comparison.
+- Geographoc data used for state-level analysis.
+
+## Key Findings & Results
 
 ### Product Performance Analysis
 - Non-Tech products have higher sales volume.
@@ -44,14 +51,23 @@ The dataset is based on Brazilian e-commerce data from Magist, including:
 - Similar review patterns across categories
 - Presence of negative reviews
 
-## Tools Used
-- SQL
-- Tableau
+## Technologies Used
 
-## Conclusion
+### Tools:
+
+- SQL(data quering and analysis)
+- Tableau(data visualisation & dashboards)
+
+###Environment:
+
+- Tableau Public
+- GitHub
+
+## Project Structure
+
+## Visualisations
+
+## Recommendation
+
 Magist shows strong performance in Non-Tech products but has limitations in the Tech category due to fewer sellers and lower revenue. Delivery delays and mixed customer feedback should also be considered before partnership with Eniac.
 
-## Files Included
-- Tableau Workbook
-- Presentation Slides
-- SQL Queries
