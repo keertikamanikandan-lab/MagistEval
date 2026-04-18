@@ -1,4 +1,4 @@
-# Magist E-commerce Performance Evaluation Using Sales, Seller, Geo & Delivery Analysis
+# Magist E-commerce Performance Analysis (Sales, Sellers, Geographical , Delivery  & Customers Analysis)
 
 ## Project Overview
 This project evaluates whether Magist is a suitable partner for Eniac, by analysing business performance acrosee multiple dimensions. The analysis focuses on product performance, seller distribution,geographical insights,delivery performance and customer reviews using e-commerce data.
