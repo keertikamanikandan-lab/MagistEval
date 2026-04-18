@@ -69,12 +69,12 @@ Notes:
 
 ## Conclusion
 
-### - Magist demonstrates reliable delivery performance
-### - However,tech product availability and seller ecosystem are limited
-### - Not aligned with Eniac's premium positioning
+- Magist demonstrates reliable delivery performance
+- However,tech product availability and seller ecosystem are limited
+- Not aligned with Eniac's premium positioning
 
 ## Recommendation
 
-### A full-scale partnership with Magist is not recommended due to weak performance in the tech segment.
+A full-scale partnership with Magist is not recommended due to weak performance in the tech segment.
 
 
