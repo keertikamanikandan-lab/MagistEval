@@ -29,25 +29,25 @@ Notes:
 
 ## Key Findings & Results
 
-### Product Performance Analysis
+### Analyze product performance 
 - Non-Tech products have higher sales volume.
 - Non-Tech generates more revenue across all years.
 - Tech products underperform in comparison.
   
-### Seller Performance Analysis
+### Evaluate seller strength
 - Fewer sellers in Tech category.
 - Limited product variety.
 - High dependency on few sellers.
   
-### Geographical Distribution Analysis
+### Geographical sales performance by region(Brazil)
 - Sales concentrated in specific regions.
 - Certain areas contribute more to revenue.
   
-### Delivery Performance Analysis
+### Assess delivery reliability
 - Majority of orders delivered om time.
 - Some delays and unknown statuses observed
   
-### Customer Review Analysis
+### Analyze Customer satisfaction
 - Similar review patterns across categories
 - Presence of negative reviews
 
@@ -67,7 +67,14 @@ Notes:
 
 ## Visualisations
 
+## Conclusion
+
+### - Magist demonstrates reliable delivery performance
+### - However,tech product availability and seller ecosystem are limited
+### - Not aligned with Eniac's premium positioning
+
 ## Recommendation
 
-Magist shows strong performance in Non-Tech products but has limitations in the Tech category due to fewer sellers and lower revenue. Delivery delays and mixed customer feedback should also be considered before partnership with Eniac.
+### A full-scale partnership with Magist is not recommended due to weak performance in the tech segment.
+
 
