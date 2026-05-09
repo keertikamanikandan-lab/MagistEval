@@ -1,15 +1,24 @@
-# Magist E-commerce Performance Analysis (Sales, Sellers, Geographical , Delivery  & Customers Analysis)
+# Evaluation of Magist for ENIAC Partnership
 
-## Project Overview
-This project evaluates whether Magist is a suitable partner for Eniac, by analysing business performance acrosee multiple dimensions. The analysis focuses on product performance, seller distribution,geographical insights,delivery performance and customer reviews using e-commerce data.
+##🎯 Project Overview
+This project evaluates whether Magist is a suitable marketplace and logistics partner for ENIAC,focusing on product performance, seller availability, delivery reliability, geographical sales distribution, and customer satisfaction.
+The analysis compares Tech products and Non-Tech products to understand market demand,operational efficiency, and customer experience. Using SQL analysis and interactive Tableau dashboards, the project identifies whether Magist can effectively support ENIAC's business expansion in Brazil.
 
-## Dataset & Sources
+## 📊 Dataset & Sources
 
 Source: Magist E-commerce Dataset (Brazil)
 
-Size:
+Dataset Details:
 
-- Multiple tables(orders, products,sellers,customers)
+- Multi-table relational e-commerce dataset
+- Includes:
+  - Oders
+  - Products
+  - Sellers
+  - Customers
+  - Reviews
+  - Payments
+  - Geolocation information
 - Cover three years of transaction data
 
 Key Features:
@@ -21,60 +30,117 @@ Key Features:
 - Delivery information
 - Customer Reviews
 
-Notes:
+Data Preparation:
 
-- Missing delivery dates handled as "Unknown".
+- Joined multiple tables using SQL
 - Products grouped into Tech and Non-Tech categories for comparison.
+- Missing delivery dates handled as "Unknown".
 - Geographoc data used for state-level analysis.
 
-## Key Findings & Results
+## 🚀 Key Findings & Results
 
 ### Analyze product performance 
-- Non-Tech products have higher sales volume.
-- Non-Tech generates more revenue across all years.
-- Tech products underperform in comparison.
+- Non-Tech products dominate total sales and revenue.
+- Tech products show significantly lower market demand.
+- Indicates weaker performance for ENIAC's core product category.
   
 ### Evaluate seller strength
 - Fewer sellers in Tech category.
-- Limited product variety.
+- Limited seller diversity may affect scalability.
 - High dependency on few sellers.
   
 ### Geographical sales performance by region(Brazil)
-- Sales concentrated in specific regions.
-- Certain areas contribute more to revenue.
+- Highest sales concentration observed in:
+  - Sao Paulo
+  - Rio de Janeiro
+  - Minas Gerais
+- Southern and Southeastern Brazil generate the majority of revenue.
+- Sales distribution is regionally concentrated.
   
 ### Assess delivery reliability
 - Majority of orders delivered om time.
-- Some delays and unknown statuses observed
+- Some delays and unknown statuses observed.
+- Suggests strong logistics and operational reliability from Magist.
   
 ### Analyze Customer satisfaction
-- Similar review patterns across categories
-- Presence of negative reviews
+- Majority of customer reviews were positive.
+- Non-Tech products rceived substantially more reviews and purchases.
+- Tech products showed lower customer engagement.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 ### Tools:
 
-- SQL(data quering and analysis)
-- Tableau(data visualisation & dashboards)
+- SQL (data quering and analysis)
+- Tableau (data visualisation & dashboards)
 
 ### Environment:
 
 - Tableau Public
 - GitHub
 
-## Project Structure
+## 📂 Project Structure
 
-## Visualisations
+```text
+📦 ENIAC-Magist-Analysis
+ ├── 📂 data
+ │    └── olist_dataset.csv
+ ├── 📂 dashboard
+ │    └── Tableau_Dashboard.twbx
+ ├── 📂 sql
+ │    └── SQL_queries.sql
+ ├── 📂 presentation
+ │    └── project_presentation.pptx
+ ├── 📜 README.md
+```
 
-## Conclusion
+## 📉 Visualisations
 
-- Magist demonstrates reliable delivery performance
-- However,tech product availability and seller ecosystem are limited
-- Not aligned with Eniac's premium positioning
+## 📈 Business Conclusion
 
-## Recommendation
+### Is Magist a Suitable Partner for  ENIAC?
 
-A full-scale partnership with Magist is not recommended due to weak performance in the tech segment.
+#### Strengths
+
+✅ Reliable delivery performance
+✅ Strong logistics capability
+✅ Large customer reach in Brazil
+✅ Positive customer satisfaction trends
+
+#### Concerns
+
+⚠️ Lower demand for Tech products
+⚠️ Limited Tech-product seller ecosystem
+⚠️ Revenue concentrated in a few regions
+
+### Final Evaluation
+
+Magist demonstrates strong operational and logistics performance. However, the marketplace currently favours Non-Tech products more than ENIAC's Tech-focused business model.
+
+The partnership could still be beneficial if ENIAC:
+
+- Expands Tech seller partnerships
+- Improve Tech product visibility
+- Target high-performing regions strategically
+
+## 🔗 How to Use This Project
+
+## 1. Dataset
+The dataset used for this analysis is available in the `/data` folder.
+
+## 2. SQL Analysis
+Run the SQL queries available in:
+
+`/sql/SQL_queries.sql`
+
+## 3. Tableau Dashboard
+Open the Tableau dashboard file in Tableau Desktop or Tableau Public:
+
+`/dashboard/Tableau_Dashboard.twbx`
+
+## 4. Presentation
+The business presentation and final insights are available in:
+
+`/presentation/project_presentation.pptx`
 
 
