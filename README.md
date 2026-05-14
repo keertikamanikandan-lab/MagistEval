@@ -140,22 +140,25 @@ The partnership could still be beneficial if ENIAC:
 ---
 ## 🚀 How to Use This Project
 
-1. Clone the repository
+
+### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/keertikamanikandan-lab/MagistEval.git
 ```
 
-2. Open the SQL files inside the `querydata` folder to explore the analysis queries.
+### 2️⃣ Open SQL files
 
-3. Open `MagistEval.twbx` in Tableau Desktop to interact with the dashboards.
+Go to `querydata` folder and open SQL scripts to explore analysis.
 
-4. View the project presentation:
-   - `presentation/MagistEval.pptx`
+### 3️⃣ Open Tableau Dashboard
 
-5. Dashboard screenshots are available in the `screenshot` folder.
+Open `MagistEval.twbx` using Tableau Desktop or Tableau Public.
 
----
+### 4️⃣ View Presentation
+
+Open:
+- `presentation/MagistEval.pptx`
 
 ## 🔗 Project Files
 
