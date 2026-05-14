@@ -151,11 +151,18 @@ Click here to view the repository:
 
 All files are organized inside the repository:
 
-- [📊 Tableau Workbook](./Tableau_workbook/MagistEval.twbx)
+### 📊 Tableau Workbook
 
-- [🗄️ SQL Queries](./querydata/magist_queries.sql)
+- [Magist Evaluation Dashboard](./Tableau_workbook/MagistEval.twbx)
 
-- [🖥️ Presentation](./presentation/MagistEval.pptx)
+### 🗄️ SQL Queries
+
+- [Magist Queries 1](./querydata/magist%20queries.sql)
+- [Magist Queries 2](./querydata/magist%20queries1.sql)
+
+### 🖥️ Presentation
+
+- [Magist Evaluation Presentation](./presentation/MagistEval.pptx)
 
 
 ### 📊 Step 3: Workflow (Quick Overview)
