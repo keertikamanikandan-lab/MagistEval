@@ -108,35 +108,7 @@ Data Preparation:
 ![Dashboard 2](./screenshot/dashboard2.png)
 
 ---
-## 📈 Business Conclusion
 
-### Is Magist a Suitable Partner for  ENIAC?
-
-#### ✅ Strengths
-
-- ✅ Reliable delivery performance
-- ✅ Strong logistics capability
-- ✅ Large customer reach in Brazil
-- ✅ Positive customer satisfaction trends
-
----
-
-#### ⚠️ Concerns
-
-- ⚠️ Lower demand for Tech products
-- ⚠️ Limited Tech-product seller ecosystem
-- ⚠️ Revenue concentrated in a few regions
-### Final Evaluation
-
-Magist demonstrates strong operational and logistics performance. However, the marketplace currently favours Non-Tech products more than ENIAC's Tech-focused business model.
-
-The partnership could still be beneficial if ENIAC:
-
-- Expands Tech seller partnerships
-- Improve Tech product visibility
-- Target high-performing regions strategically
-
----
 ## 🚀 How to Use This Project
 
 ### 🔗 Step 1: Access the Project
@@ -173,4 +145,33 @@ All files are organized inside the repository:
 
 ---
 
+## 📈 Business Conclusion
+
+### Is Magist a Suitable Partner for  ENIAC?
+
+#### ✅ Strengths
+
+- ✅ Reliable delivery performance
+- ✅ Strong logistics capability
+- ✅ Large customer reach in Brazil
+- ✅ Positive customer satisfaction trends
+
+---
+
+#### ⚠️ Concerns
+
+- ⚠️ Lower demand for Tech products
+- ⚠️ Limited Tech-product seller ecosystem
+- ⚠️ Revenue concentrated in a few regions
+### Final Evaluation
+
+Magist demonstrates strong operational and logistics performance. However, the marketplace currently favours Non-Tech products more than ENIAC's Tech-focused business model.
+
+The partnership could still be beneficial if ENIAC:
+
+- Expands Tech seller partnerships
+- Improve Tech product visibility
+- Target high-performing regions strategically
+
+---
 
